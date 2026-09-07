@@ -1,0 +1,13 @@
+{
+  "name": "agentic",
+  "version": "0.1.0",
+  "description": "Example Agentic script for OpenRouter API (no secrets committed)",
+  "main": "scripts/agentic.js",
+  "scripts": {
+    "start": "node scripts/agentic.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
